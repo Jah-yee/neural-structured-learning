@@ -95,7 +95,7 @@ def adversarial_loss(features,
     labels: Target labels.
     model: A callable that takes `features` as inputs and computes `predictions`
       as outputs. An example would be a `tf.keras.Model` object.
-    loss_fn: A callable which calcualtes labeled loss from `labels`,
+    loss_fn: A callable which calculates labeled loss from `labels`,
       `predictions`, and `sample_weight`. An example would be a
       `tf.keras.losses.Loss` object.
     sample_weights: (optional) A 1-D `Tensor` of weights for the examples, with

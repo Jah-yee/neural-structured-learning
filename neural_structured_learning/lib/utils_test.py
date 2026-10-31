@@ -740,7 +740,7 @@ class UnpackNeighborFeaturesTest(tf.test.TestCase):
       utils.unpack_neighbor_features(features, neighbor_config)
 
   def testNeighborWeightShapeIncompatibility(self):
-    """One neighbor weight has an incompatibile shape."""
+    """One neighbor weight has an incompatible shape."""
     # Simulate a batch size of 1 for simplicity.
     # The shape of one neighbor weight is 1x2 instead of 1x1.
     features = {

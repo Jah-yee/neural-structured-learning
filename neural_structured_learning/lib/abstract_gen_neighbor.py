@@ -15,7 +15,7 @@
 """Abstract class for generating neighbors.
 
 This abstract class will be inherited by classes with actual implementation for
-generating neigbors (e.g., adversarial neighbors or graph neighbors).
+generating neighbors (e.g., adversarial neighbors or graph neighbors).
 """
 
 from __future__ import absolute_import

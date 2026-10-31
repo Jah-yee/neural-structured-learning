@@ -105,7 +105,7 @@ def virtual_adv_regularizer(input_layer,
       `embedding_fn(input_layer)`.
 
   Returns:
-    virtual_adv_loss: a `float32` denoting the virtural adversarial loss.
+    virtual_adv_loss: a `float32` denoting the virtual adversarial loss.
   """
 
   if embedding is None:

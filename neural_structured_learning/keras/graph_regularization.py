@@ -31,7 +31,7 @@ class GraphRegularization(tf.keras.Model):
   model reuses the layers and variables from the base model. So, training this
   model will also update the variables in the base model.
 
-  Note: This class expects input data to include neighor features corresponding
+  Note: This class expects input data to include neighbor features corresponding
   to the maximum number of neighbors used for graph regularization.
 
   Example usage:

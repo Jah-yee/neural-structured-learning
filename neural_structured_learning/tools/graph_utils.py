@@ -35,7 +35,7 @@ would be represented by the dictionary:
 }
 ```
 
-In the documention, we say a graph is represented by a `dict`:
+In the documentation, we say a graph is represented by a `dict`:
 source_id -> (target_id -> weight).
 """
 

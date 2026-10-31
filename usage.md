@@ -64,7 +64,7 @@ Below is an incomplete list of media publications featuring NSL:
 
 ## Blog Posts
 
-*   [*Introducing Neural Structred Learning in TensorFlow*](https://blog.tensorflow.org/2019/09/introducing-neural-structured-learning.html)
+*   [*Introducing Neural Structured Learning in TensorFlow*](https://blog.tensorflow.org/2019/09/introducing-neural-structured-learning.html)
 *   [*Neural Structured Learning in TFX*](https://blog.tensorflow.org/2020/10/neural-structured-learning-in-tfx.html)
 *   [*Improving Classification Model Robustness with Adversarial Regularization
     in
